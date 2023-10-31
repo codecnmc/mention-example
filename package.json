@@ -1,0 +1,28 @@
+{
+  "name": "wangeditor-metion-demo",
+  "description": "wangeditor 提及功能",
+  "version": "0.0.1",
+  "author": "羊驼",
+  "private": false,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "@wangeditor/editor": "^5.1.23",
+    "@wangeditor/plugin-mention": "^1.0.0",
+    "core-js": "^3.6.5",
+    "element-ui": "^2.15.14",
+    "vue": "^2.6.11"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~4.5.4",
+    "@vue/cli-service": "~4.5.4",
+    "vue-template-compiler": "^2.6.11"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ]
+}
